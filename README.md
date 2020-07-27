@@ -1,3 +1,9 @@
+**This tool is forked from EscVM repo with one more script added to convert the annotaion into Yolov3 annotaion.**
+**To use the script run this command after you download the images**
+   ```bash
+   git clone https://github.com/EscVM/OIDv4_ToolKit.git
+   ```
+
 <h1 align="center"> ~ OIDv4 ToolKit ~ </h1>
 
 Do you want to build your personal object detector but you don't have enough images to train your model? Do you want to train your personal image classifier, but you are tired of the deadly slowness of ImageNet? Have you already discovered [Open Images Dataset v4](https://storage.googleapis.com/openimages/web/index.html) that has [600](https://storage.googleapis.com/openimages/2018_04/bbox_labels_600_hierarchy_visualizer/circle.html) classes and more than 1,700,000 images with related bounding boxes ready to use? Do you want to exploit it for your projects but you don't want to download gigabytes and gigabytes of data!?
